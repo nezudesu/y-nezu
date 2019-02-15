@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+flask-restful
+marshmallow
+uwsgi
+mysqlclient
